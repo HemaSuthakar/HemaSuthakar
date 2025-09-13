@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Hema!
 
-<!--
-**HemaSuthakar/HemaSuthakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring IT professional with a passion for solving real-world problems through code. I love working with Python, HTML, and building systems that make life easier.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Languages: Python, HTML, JavaScript
+- Tools: Git, VS Code, Postman
+- Frameworks: Flask, Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Projects
+- ✈️ [Airline Reservation System](https://github.com/HemaSuthakar/Airline-Reservation-System): A simple booking system using Python.
+- 🤖 [Chatbot](https://github.com/HemaSuthakar/Chatbot): A basic conversational bot built with Python.
+- 🌐 [BDS](https://github.com/HemaSuthakar/BDS): HTML-based project for web structure.
+
+## 📚 Learning Goals
+- Master full-stack development
+- Contribute to open-source projects
+- Build a portfolio of impactful applications
+
+## 🗓️ Let's Connect
+I'm open to collaborations, internships, and mentorships. Let's build something amazing together!
